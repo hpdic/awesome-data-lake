@@ -16,3 +16,7 @@ A hub of "recent" literature for data lakes
    * https://dl.acm.org/doi/10.1145/3299869.3300065    
 * [VLDB'18] Table union search on open data
    * https://www.vldb.org/pvldb/vol11/p813-nargesian.pdf    
+
+## Data Versioning
+* [VLDB'17] OrpheusDB: bolt-on versioning for relational databases
+   * https://dl.acm.org/doi/10.14778/3115404.3115417 
