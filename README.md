@@ -1,5 +1,5 @@
 # awesome-data-lake
-A hub of "recently" literature for data lakes
+A hub of "recent" literature for data lakes
 
 ## Survey Papers
 * [TKDE'23] Data Lakes: A Survey of Functions and Systems
