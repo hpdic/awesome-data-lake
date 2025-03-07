@@ -12,4 +12,7 @@ A hub of "recent" literature for data lakes
 * TODO
 
 ## Related Dataset Discovery
-* TODO
+* [SIGMOD'19] JOSIE: Overlap Set Similarity Search for Finding Joinable Tables in Data Lakes
+   * https://dl.acm.org/doi/10.1145/3299869.3300065    
+* [VLDB'18] Table union search on open data
+   * https://www.vldb.org/pvldb/vol11/p813-nargesian.pdf    
