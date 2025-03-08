@@ -9,9 +9,12 @@ A hub of "recent" literature for data lakes
     * https://github.com/RJMillerLab/data-lake-tutorial-slides/raw/master/data-lake-tutorial-slides.pdf 
 
 ## Data Integration
-* TODO
+* [VLDB'22] Integrating Data Lake Tables
+   * https://www.vldb.org/pvldb/vol16/p932-khatiwada.pdf
+* [SIGMOD'22] TURL: Table Understanding through Representation Learning
+   * https://dl.acm.org/doi/10.1145/3542700.3542709 
 
-## Related Dataset Discovery
+## Data Discovery
 * [SIGMOD'19] JOSIE: Overlap Set Similarity Search for Finding Joinable Tables in Data Lakes
    * https://dl.acm.org/doi/10.1145/3299869.3300065    
 * [VLDB'18] Table union search on open data
